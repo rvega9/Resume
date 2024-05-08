@@ -9,7 +9,7 @@ app.use(cors());
 const resumeData = {
   personalInfo: {
     name: "Rowena L. Vega",
-    age: "24",
+    age: "25",
     birthDate: "September 14, 1999",
     contactNo: "09231418471",
     address: "#47 Cashra, Lahug, Cebu City, Cebu",
