@@ -8,28 +8,40 @@ app.use(cors());
 
 const resumeData = {
   personalInfo: {
-    name: "Rowena L. Vega",
-    age: "25",
-    birthDate: "September 14, 1999",
+    firstName: "Rowena",
+    lastName: "Vega",
+    jobTitle: "Student",
     contactNo: "09231418471",
+    website: "www.examplesite.com",
+    location: "Cebu-PH",
+    aboutMe: "I am a 2nd year student taking Bachelor of Science in Information Technology",
+    age: "24",
+    birthDate: "September 14, 1999",
     address: "#47 Cashra, Lahug, Cebu City, Cebu",
     email: "wingklevega16@gmail.com",
   },
+
+  languages: [
+    { language: "English" },
+    { language: "Tagalog" },
+    { language: "Bisaya" },
+  ],
+  
   skills: [
     { description: "Web Development", expertiseLevel: "Advanced" },
     { description: "Software Engineer", expertiseLevel: "Advanced" },
   ],
   workExperience: [
-    { companyName: "Accenture",  details: "Developed web applications", year: "2018-2020" },
+    { companyName: "Accenture",  details: "Developed web applications", year: "2016-2018" },
+    { companyName: "Accenture",  details: "Developed computer games", year: "2018-2022" },
   ],
   education: [
-    { school: "University of Southern Philippines Foundation ", year: "Present", address: "Lahug Cebu City" },
-    { school: "Immaculata High School", year: "2015", address: "Baclayon Bohol" },
-    { school: "Baclayon Central Elementary School", year: "2010-2011", address: "Baclayon Bohol" },
+    { school: "Danao City Central School", year: "2011-2012"},
+    { school: "University of Southern Philippines Foundation", year: "2015-2016"},
+    { school: "Silliman University", year: "2017-2018"},
+    { school: "University of Southern Philippines Foundation", year: "Present"},
   ],
-  personalReferences: [
-    { name: "Jane", relationship: "Colleague", contactNumber: "0999999999" },
-  ],
+
 };
 
 // Endpoint for personal information
