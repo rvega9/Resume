@@ -39,7 +39,7 @@ const resumeData = {
 
   languages: [
     { language: "English" },
-    { language: "TCebuano" },
+    { language: "Cebuano" },
     { language: "Tagalog" },
   ],
   
