@@ -1,5 +1,6 @@
 const cors = require('cors'); // Import the cors middleware
 const express = require('express');
+const path = require('path');
 const app = express();
 const port = 3000;
 
