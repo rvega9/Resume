@@ -39,8 +39,8 @@ const resumeData = {
 
   languages: [
     { language: "English" },
+    { language: "TCebuano" },
     { language: "Tagalog" },
-    { language: "Cebuano" },
   ],
   
   skills: [
