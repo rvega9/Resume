@@ -6,6 +6,16 @@ const port = 3000;
 // Use CORS with default settings to allow cross-origin requests
 app.use(cors());
 
+// Serve static files including CSS with the correct MIME type
+app.use(express.static(path.join(__dirname, 'public'), { 
+  // Set the content type explicitly for CSS files
+  setHeaders: (res, path, stat) => {
+    if (path.endsWith('.css')) {
+      res.setHeader('Content-Type', 'text/css');
+    }
+  }
+}));
+
 const resumeData = {
   personalInfo: {
     firstName: "Rowena",
