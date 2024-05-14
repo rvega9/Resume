@@ -35,12 +35,14 @@ const resumeData = {
     email: "wingklevega16@gmail.com",
     status: "Single",
     religion: "Roman Catholic"
+
   },
 
   languages: [
     { language: "English" },
     { language: "Cebuano" },
     { language: "Tagalog" },
+    { language: "Spanish" },
   ],
   
   skills: [
