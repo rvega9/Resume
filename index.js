@@ -34,7 +34,7 @@ const resumeData = {
     address: "#47 Cashra, Lahug, Cebu City, Cebu",
     email: "wingklevega16@gmail.com",
     status: "Single",
-    religion: "Roman Catholic"
+    religion: "RC"
 
   },
 
@@ -52,12 +52,15 @@ const resumeData = {
   workExperience: [
     { companyName: "Accenture",  details: "Developed Web Applications", year: "2016-2018" },
     { companyName: "Cebu-PH",  details: "Developed Computer Games", year: "2018-2022" },
+    { companyName: "Techma",  details: "Developed Operation System", year: "2022-2024" },
   ],
   education: [
+    { school: "Cubacuba Elementary School", year: "Kindergarten, 2004-2005"},
     { school: "Danao City Central School", year: "Elementary, 2011-2012"},
     { school: "University of Southern Philippines Foundation", year: "Junior High School, 2015-2016"},
     { school: "Silliman University", year: "Senior High School, 2017-2018"},
     { school: "University of Southern Philippines Foundation", year: "Present"},
+
   ],
 
 };
