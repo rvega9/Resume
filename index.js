@@ -46,16 +46,16 @@ const resumeData = {
   ],
   
   skills: [
-    { description: "Web Developer", expertiseLevel: "Advanced" },
-    { description: "Software Engineer", expertiseLevel: "Advanced" },
+    { description: "Typing speed of 70 WPM", expertiseLevel: "Advanced" },
+    { description: "Microsoft Excel", expertiseLevel: "Advanced" },
   ],
   workExperience: [
-    { companyName: "Accenture",  details: "Developed Web Applications", year: "2016-2018" },
-    { companyName: "Cebu-PH",  details: "Developed Computer Games", year: "2018-2022" },
-    { companyName: "Techma",  details: "Developed Operation System", year: "2022-2024" },
+    { companyName: "PSITE Central Visayas ICT",  details: "Student Congress", year: "2023" },
+    { companyName: "PSITE Central Visayas ICT",  details: "Student Conggress", year: "2024" },
+    { companyName: "Seminars within School",  details: "Any Seminars", year: "2022-2024" },
   ],
   education: [
-    { school: "Cubacuba Elementary School", year: "Kindergarten, 2004-2005"},
+    { school: "Cubacub Elementary School", year: "Kindergarten, 2004-2005"},
     { school: "Danao City Central School", year: "Elementary, 2011-2012"},
     { school: "University of Southern Philippines Foundation", year: "Junior High School, 2015-2016"},
     { school: "Silliman University", year: "Senior High School, 2017-2018"},
