@@ -29,7 +29,7 @@ const resumeData = {
   },
 
   leftInfo: {
-    age: "24",
+    age: "25",
     birthDate: "September 14, 1999",
     address: "#47 Cashra, Lahug, Cebu City, Cebu",
     email: "wingklevega16@gmail.com",
