@@ -25,7 +25,7 @@ const resumeData = {
     contactNo: "09231418471",
     website: "www.rvegasite.com",
     location: "Cebu-PH",
-    aboutMe: "I am a 2nd year student taking Bachelor of Science in Infromation Technology, here in University of Southern Philippines (Lahug Campus) but at the same time, a working student as a Web Developer in Cebu-PH. I love to be around with people who have the same humor as me. I am a competent person and knows how to manage my time properly.",
+    aboutMe: "I am a 3rd year student taking Bachelor of Science in Infromation Technology, here in University of Southern Philippines (Lahug Campus) but at the same time, a working student as a Web Developer in Cebu-PH. I love to be around with people who have the same humor as me. I am a competent person and knows how to manage my time properly.",
   },
 
   leftInfo: {
